@@ -1,0 +1,22 @@
+/*function parseMS(ms) {
+    if (!ms) return null;
+
+    const times = {
+        year: Math.floor(ms / 31557600000),
+        month: Math.floor(ms / 2629800000) % 12,
+        day: Math.floor(ms / 86400000) % 30,
+        hour: Math.floor(ms / 3600000) % 24,
+        minute: Math.floor(ms / 60000) % 60,
+        second: Math.floor(ms / 1000) % 60
+    };
+
+    const plural = (x) => (x !== 1 ? "s" : "");
+    const humanised = Object.entries(times)
+        .filter(x => x[1])
+        .map(time => `${Math.round(time[1])} ${time[0]}${plural(time[1])}`);
+    return humanised.join(", ");
+}
+
+const creationDate = new Date((args[0] / 4194304) + 1420070400000);
+const miliseconds = new Date().getTime() - creationDate.getTime();
+receivedMessage.content = `${args[0]} was created ${parseMS(miliseconds)} ago`;*/

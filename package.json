@@ -1,0 +1,60 @@
+{
+  "name": "Legion",
+  "version": "1.0.0",
+  "description": "Legionis the server management Discord bot for Crown Tech, a non-profit technology-based community on Discord, who strive to give support to other developers and hang out with people.",
+  "main": "index.js",
+  "scripts": {
+    "test": "!ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OfficialCrownTech/Legion.git"
+  },
+  "keywords": [
+    "Legion",
+    "crown",
+    "tech",
+    "coding",
+    "programming",
+    "development",
+    "js",
+    "javascript"
+  ],
+  "author": "Archreus#9888",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OfficialCrownTech/Legion/issues"
+  },
+  "homepage": "https://github.com/OfficialCrownTech/Legion#readme",
+  "dependencies": {
+    "@haileybot/captcha-generator": "^1.6.1",
+    "@k3rn31p4nic/google-translate-api": "^1.1.1",
+    "axios": "^0.21.1",
+    "better-discord-antispam": "^2.0.0",
+    "better-discord-antispam-with-good-grammar": "^1.0.10",
+    "canvacord": "^5.0.8",
+    "canvas": "^2.8.0",
+    "discord-giveaways": "github:Androz2091/discord-giveaways#develop",
+    "discord-rpc": "^3.1.4",
+    "discord.js": "^12.5.1",
+    "discord.js-selfbot": "^12.0.2",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "got": "^11.8.1",
+    "hastebin-gen": "^2.0.5",
+    "mathjs": "^8.1.1",
+    "mongodb": "^3.6.3",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "parse-ms": "^2.1.0",
+    "pm2": "^4.5.1",
+    "puppeteer": "^5.5.0",
+    "quick.db": "^7.1.3",
+    "random-puppy": "^1.1.0",
+    "sqlite": "^4.0.19",
+    "statcord.js": "^3.1.4",
+    "vultrex.db": "^1.4.1",
+    "weather-js": "^2.0.0",
+    "youtube-notifier": "^1.3.1"
+  }
+}
