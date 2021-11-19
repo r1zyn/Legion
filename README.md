@@ -1,11 +1,5 @@
 <head>
     <script src="https://kit.fontawesome.com/101fd1b1be.js" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
-        new Crate({
-            server: '760659394370994197',
-            channel: '799010282336288828'
-        })
-    </script>
 </head>
 <img src="https://ancestron.weebly.com/uploads/1/2/7/7/127703923/untitled-design-62_orig.png" style="border-radius: 5px;"/>
 <br>
@@ -21,13 +15,13 @@
 </p>
 <br>
 <br>
-<h4><i class="fas fa-info-circle"></i>&nbsp;<strong>Getting Started With Legion</strong></h4>
+<h4><i class="fas fa-info-circle" style="color: #7289da;"></i>&nbsp;<strong>Getting Started With Legion</strong></h4>
 <p>The default prefix for <strong>Legion</strong> is <code>?</code>. To make things work for you, this prefix is
     customizable and can be changed to whatever suits you. To do so, you can use the <code>?prefix</code> command. To
     view the full list of modules, use the <code>?help</code> command.</p>
 <br>
 <br>
-<h4><i class="fas fa-folder-open"></i>&nbsp;<strong>Legion - Core Modular System</strong></h4>
+<h4><i class="fas fa-folder-open" style="color: #7289da;"></i>&nbsp;<strong>Legion - Core Modular System</strong></h4>
 <p>What makes <strong>Legion</strong> unique is it's powerful module core system. Each command is categorized into an
     assigned module, which makes commands easier to find. The following modules are listed:</p>
 <ul>
@@ -63,7 +57,7 @@
     command.</p>
 <br>
 <br>
-<h4><i class="fas fa-terminal"></i>&nbsp;<strong>List Of Commands</strong></h4>
+<h4><i class="fas fa-terminal" style="color: #7289da;"></i>&nbsp;<strong>List Of Commands</strong></h4>
 <button class="accordion"><strong>Moderation Module Commands</strong></button>
 <div class="panel">
     <p><code>announce, clear, kick, snipe</code></p>
@@ -98,52 +92,11 @@
     <p><code>prefix, module
     </code></p>
 </div>
-<script>
-    var acc = document.getElementsByClassName("accordion");
-    var i;
-    for (i = 0; i < acc.length; i++) {
-        acc[i].addEventListener("click", function () {
-            this.classList.toggle("active");
-            var panel = this.nextElementSibling;
-            if (panel.style.display === "block") {
-                panel.style.display = "none";
-            } else {
-                panel.style.display = "block";
-            }
-        });
-    }
-    var acc1 = document.getElementsByClassName("accordion1");
-    var i2;
-    for (i2 = 0; i2 < acc1.length; i2++) {
-        acc1[i2].addEventListener("click", function () {
-            this.classList.toggle("active");
-            var panel = this.nextElementSibling;
-            if (panel.style.display === "block") {
-                panel.style.display = "none";
-            } else {
-                panel.style.display = "block";
-            }
-        });
-    }
-    var acc2 = document.getElementsByClassName("accordion2");
-    var i3;
-    for (i3 = 0; i3 < acc2.length; i3++) {
-        acc2[i3].addEventListener("click", function () {
-            this.classList.toggle("active");
-            var panel = this.nextElementSibling;
-            if (panel.style.display === "block") {
-                panel.style.display = "none";
-            } else {
-                panel.style.display = "block";
-            }
-        });
-    }
-</script>
 <br>
 <br>
 <br>
 <br>
-<h4><i class="fas fa-code"></i>&nbsp;<strong>Development Team</strong></h4>
+<h4><i class="fas fa-code" style="color: #7289da;"></i>&nbsp;<strong>Development Team</strong></h4>
 <ul>
     <li><strong>Ascendus#6316 (Head Developer)</strong></li>
     <li><strong>Crown Tech#2586 (Server Founder)</strong></li>
@@ -153,119 +106,8 @@
 </ul>
 <br>
 <br>
-<h4><i class="fas fa-external-link-alt"></i>&nbsp;<strong>Important Links</strong></h4>
+<h4><i class="fas fa-external-link-alt" style="color: #7289da;"></i>&nbsp;<strong>Important Links</strong></h4>
 <a href="https://discord.gg/FtkbxQsWAX" target="blank"><button class="ss"><strong>Support Server</strong></button></a>
 <a href="http://bit.ly/2MPTa26" target="blank"><button class="ib"><strong>Invite</strong></button></a>
 <a href="https://statcord.com/bot/794411847117832202" target="blank"><button class="xyz"><strong>More
             Statistics</strong></button></a>
-
-<style>
-    .ss {
-        border-radius: 5px;
-        border: solid;
-        font: "Montserrat";
-        border-color: #7289da;
-        background-color: #7289da;
-        color: white;
-    }
-
-    .ss:hover {
-        border-color: #7289da;
-        transform: translateY(4px);
-    }
-
-    .ib {
-        border-radius: 5px;
-        font: "Montserrat";
-        border: solid;
-        border-color: #7289da;
-        background-color: #7289da;
-        color: white;
-    }
-
-    .ib:hover {
-        border-color: #7289da;
-        transform: translateY(4px);
-    }
-
-    .xyz {
-        border-radius: 5px;
-        font: "Montserrat";
-        border: solid;
-        border-color: #7289da;
-        background-color: #7289da;
-        color: white;
-    }
-
-    .xyz:hover {
-        border-color: #7289da;
-        transform: translateY(4px);
-    }
-
-    .accordion {
-        background-color: #7289da;
-        color: white;
-        cursor: pointer;
-        padding: 18px;
-        width: 100%;
-        border: none;
-        text-align: left;
-        outline: none;
-        font-size: 15px;
-        transition: 0.4s;
-        border-top-right-radius: 5px;
-        border-top-left-radius: 5px;
-    }
-
-    .active,
-    .accordion:hover {
-        background-color: #2f3136;
-    }
-
-    .accordion1 {
-        background-color: #7289da;
-        color: white;
-        cursor: pointer;
-        padding: 18px;
-        width: 100%;
-        border: none;
-        text-align: left;
-        outline: none;
-        font-size: 15px;
-        transition: 0.4s;
-    }
-
-    .active,
-    .accordion1:hover {
-        background-color: #2f3136;
-    }
-
-    .accordion2 {
-        background-color: #7289da;
-        color: white;
-        cursor: pointer;
-        padding: 18px;
-        width: 100%;
-        border: none;
-        text-align: left;
-        outline: none;
-        font-size: 15px;
-        transition: 0.4s;
-        border-bottom-right-radius: 5px;
-        border-bottom-left-radius: 5px;
-    }
-
-    .active,
-    .accordion2:hover {
-        background-color: #2f3136;
-    }
-
-
-    .panel {
-        padding: 0 18px;
-        display: none;
-        background-color: #2f3136;
-        overflow: hidden;
-        color: white;
-    }
-</style>
