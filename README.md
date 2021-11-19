@@ -1,7 +1,7 @@
 <img src="https://ancestron.weebly.com/uploads/1/2/7/7/127703923/untitled-design-62_orig.png" style="border-radius: 5px;"/>
 <br>
 <br>
-<h4>;<strong>Legion - The Future Of Discord Bots</strong></h4>
+<h4><strong>Legion - The Future Of Discord Bots</strong></h4>
 <p>Meet Legion, the ultimate Discord server management and multi-purpose utility bot by Ascendus#6316 and the Astura Studios team.
     <br>
     <br>
@@ -12,14 +12,14 @@
 <br>
 <br>
 <h4><?xml version="1.0" encoding="utf-8"?>
-<svg width="1792" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg" style="color: #7289da;"><path d="M1152 1376v-160q0-14-9-23t-23-9h-96v-512q0-14-9-23t-23-9h-320q-14 0-23 9t-9 23v160q0 14 9 23t23 9h96v320h-96q-14 0-23 9t-9 23v160q0 14 9 23t23 9h448q14 0 23-9t9-23zm-128-896v-160q0-14-9-23t-23-9h-192q-14 0-23 9t-9 23v160q0 14 9 23t23 9h192q14 0 23-9t9-23zm640 416q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z"/></svg>>&nbsp;<strong>Getting Started With Legion</strong></h4>
+<svg width="1792" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg" style="filter: invert(54%) sepia(47%) saturate(568%) hue-rotate(190deg) brightness(93%) contrast(83%);"><path d="M1152 1376v-160q0-14-9-23t-23-9h-96v-512q0-14-9-23t-23-9h-320q-14 0-23 9t-9 23v160q0 14 9 23t23 9h96v320h-96q-14 0-23 9t-9 23v160q0 14 9 23t23 9h448q14 0 23-9t9-23zm-128-896v-160q0-14-9-23t-23-9h-192q-14 0-23 9t-9 23v160q0 14 9 23t23 9h192q14 0 23-9t9-23zm640 416q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z"/></svg>&nbsp;<strong>Getting Started With Legion</strong></h4>
 <p>The default prefix for <strong>Legion</strong> is <code>?</code>. To make things work for you, this prefix is
     customizable and can be changed to whatever suits you. To do so, you can use the <code>?prefix</code> command. To
     view the full list of modules, use the <code>?help</code> command.</p>
 <br>
 <br>
 <h4><?xml version="1.0" encoding="utf-8"?>
-<svg width="2048" height="1792" viewBox="0 0 2048 1792" xmlns="http://www.w3.org/2000/svg" style="color: #7289da;"><path d="M1943 952q0 31-31 66l-336 396q-43 51-120.5 86.5t-143.5 35.5h-1088q-34 0-60.5-13t-26.5-43q0-31 31-66l336-396q43-51 120.5-86.5t143.5-35.5h1088q34 0 60.5 13t26.5 43zm-343-344v160h-832q-94 0-197 47.5t-164 119.5l-337 396-5 6q0-4-.5-12.5t-.5-12.5v-960q0-92 66-158t158-66h320q92 0 158 66t66 158v32h544q92 0 158 66t66 158z"/></svg>&nbsp;<strong>Legion - Core Modular System</strong></h4>
+<svg width="2048" height="1792" viewBox="0 0 2048 1792" xmlns="http://www.w3.org/2000/svg" style="filter: invert(54%) sepia(47%) saturate(568%) hue-rotate(190deg) brightness(93%) contrast(83%);"><path d="M1943 952q0 31-31 66l-336 396q-43 51-120.5 86.5t-143.5 35.5h-1088q-34 0-60.5-13t-26.5-43q0-31 31-66l336-396q43-51 120.5-86.5t143.5-35.5h1088q34 0 60.5 13t26.5 43zm-343-344v160h-832q-94 0-197 47.5t-164 119.5l-337 396-5 6q0-4-.5-12.5t-.5-12.5v-960q0-92 66-158t158-66h320q92 0 158 66t66 158v32h544q92 0 158 66t66 158z"/></svg>&nbsp;<strong>Legion - Core Modular System</strong></h4>
 <p>What makes <strong>Legion</strong> unique is it's powerful module core system. Each command is categorized into an
     assigned module, which makes commands easier to find. The following modules are listed:</p>
 <ul>
@@ -57,7 +57,7 @@
 <br>
 <h4>
 <?xml version="1.0" encoding="utf-8"?>
-<svg width="1792" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg" style="color: #7289da;"><path d="M649 983l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23t-10 23zm1079 457v64q0 14-9 23t-23 9h-960q-14 0-23-9t-9-23v-64q0-14 9-23t23-9h960q14 0 23 9t9 23z"/></svg>>&nbsp;<strong>List Of Commands</strong></h4>
+<svg width="1792" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg" style="filter: invert(54%) sepia(47%) saturate(568%) hue-rotate(190deg) brightness(93%) contrast(83%);"><path d="M649 983l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23t-10 23zm1079 457v64q0 14-9 23t-23 9h-960q-14 0-23-9t-9-23v-64q0-14 9-23t23-9h960q14 0 23 9t9 23z"/></svg>>&nbsp;<strong>List Of Commands</strong></h4>
 <button class="accordion"><strong>Moderation Module Commands</strong></button>
 <div class="panel">
     <p><code>announce, clear, kick, snipe</code></p>
@@ -94,10 +94,8 @@
 </div>
 <br>
 <br>
-<br>
-<br>
 <h4><?xml version="1.0" encoding="utf-8"?>
-<svg width="2048" height="1792" viewBox="0 0 2048 1792" xmlns="http://www.w3.org/2000/svg" style="color: #7289da;"><path d="M681 1399l-50 50q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l50 50q10 10 10 23t-10 23l-393 393 393 393q10 10 10 23t-10 23zm591-1067l-373 1291q-4 13-15.5 19.5t-23.5 2.5l-62-17q-13-4-19.5-15.5t-2.5-24.5l373-1291q4-13 15.5-19.5t23.5-2.5l62 17q13 4 19.5 15.5t2.5 24.5zm657 651l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23t-10 23z"/></svg>&nbsp;<strong>Development Team</strong></h4>
+<svg width="2048" height="1792" viewBox="0 0 2048 1792" xmlns="http://www.w3.org/2000/svg" style="filter: invert(54%) sepia(47%) saturate(568%) hue-rotate(190deg) brightness(93%) contrast(83%);"><path d="M681 1399l-50 50q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l50 50q10 10 10 23t-10 23l-393 393 393 393q10 10 10 23t-10 23zm591-1067l-373 1291q-4 13-15.5 19.5t-23.5 2.5l-62-17q-13-4-19.5-15.5t-2.5-24.5l373-1291q4-13 15.5-19.5t23.5-2.5l62 17q13 4 19.5 15.5t2.5 24.5zm657 651l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23t-10 23z"/></svg>&nbsp;<strong>Development Team</strong></h4>
 <ul>
     <li><strong>Ascendus#6316 (Head Developer)</strong></li>
     <li><strong>Crown Tech#2586 (Server Founder)</strong></li>
@@ -108,7 +106,7 @@
 <br>
 <br>
 <h4><?xml version="1.0" encoding="utf-8"?>
-<svg width="2048" height="1792" viewBox="0 0 2048 1792" xmlns="http://www.w3.org/2000/svg" style="color: #7289da;"><path d="M681 1399l-50 50q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l50 50q10 10 10 23t-10 23l-393 393 393 393q10 10 10 23t-10 23zm591-1067l-373 1291q-4 13-15.5 19.5t-23.5 2.5l-62-17q-13-4-19.5-15.5t-2.5-24.5l373-1291q4-13 15.5-19.5t23.5-2.5l62 17q13 4 19.5 15.5t2.5 24.5zm657 651l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23t-10 23z"/></svg>&nbsp;<strong>Important Links</strong></h4>
+<svg width="2048" height="1792" viewBox="0 0 2048 1792" xmlns="http://www.w3.org/2000/svg" style="filter: invert(54%) sepia(47%) saturate(568%) hue-rotate(190deg) brightness(93%) contrast(83%);"><path d="M681 1399l-50 50q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l50 50q10 10 10 23t-10 23l-393 393 393 393q10 10 10 23t-10 23zm591-1067l-373 1291q-4 13-15.5 19.5t-23.5 2.5l-62-17q-13-4-19.5-15.5t-2.5-24.5l373-1291q4-13 15.5-19.5t23.5-2.5l62 17q13 4 19.5 15.5t2.5 24.5zm657 651l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23t-10 23z"/></svg>&nbsp;<strong>Important Links</strong></h4>
 <a href="https://discord.gg/FtkbxQsWAX" target="blank"><button class="ss"><strong>Support Server</strong></button></a>
 <a href="http://bit.ly/2MPTa26" target="blank"><button class="ib"><strong>Invite</strong></button></a>
 <a href="https://statcord.com/bot/794411847117832202" target="blank"><button class="xyz"><strong>More
